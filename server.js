@@ -14,6 +14,6 @@ console.log(
     'Check Diff 4'
 );
 console.log(
-    'Check Diff 6'
+    'Check Diff 5'
 );
 
