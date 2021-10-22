@@ -7,3 +7,6 @@ console.log(
 console.log(
     'Check Diff 2'
 );
+console.log(
+    'Check Diff 3'
+);

@@ -4,3 +4,6 @@ console.log(
 console.log(
     'check diff 2'
 );
+console.log(
+    'Check Diff 3'
+);
